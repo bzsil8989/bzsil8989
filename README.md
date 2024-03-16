@@ -9,6 +9,6 @@
 📫 How to reach me:
    - Email: bzsil8969@gmail.com
    - LinkedIn: www.linkedin.com/in/basil8989
-   - GitHub: https://github.com/basil8989
+   - GitHub: https://github.com/bzsil8989
 
 ⚡ Fun fact: I enjoy experimenting with my guitar  when I'm not coding!
